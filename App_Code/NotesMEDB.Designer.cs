@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\tomza\Desktop\NotesME Web Project\NotesME\App_Code\NotesMEDB.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\tomza\source\repos\NotesME\App_Code\NotesMEDB.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
